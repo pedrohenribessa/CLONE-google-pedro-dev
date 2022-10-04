@@ -19,6 +19,7 @@ body {
 
 .menu {
     height: 48px;
+    padding-top: 13px;
     /* width: 100%; */
     display: flex;
     /* justify-content: space-between; */
@@ -113,12 +114,14 @@ body {
 }
 
 .content__logo {
+    margin-left: 3px;
+    margin-top: 7px;
     height: 98px;
-    width: 272px;
+    width: 400px;
 }
 
 .content__search {
-    margin-top: 25px;
+    margin-top: 30px;
     width: 100%;
     padding: 22px;
     font-size: 14px;
@@ -127,7 +130,7 @@ body {
     border-radius: 25px;
     border: solid 1px #dadce0;
     outline: 0;
-    width: 560px;
+    width: 582px;
     height: 35px;
 }
 
